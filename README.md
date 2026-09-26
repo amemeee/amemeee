@@ -6,7 +6,7 @@
 <h3 align="center">PHP / Laravel Developer &nbsp;·&nbsp; IT Manager</h3>
 
 <p align="center">
-  I build reliable backend systems and full-stack web platforms — from real-time auction engines to APIs — with clean, maintainable code.
+  I build reliable backend systems and full-stack web platforms.
 </p>
 
 <p align="center">

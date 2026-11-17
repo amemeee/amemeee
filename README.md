@@ -43,22 +43,6 @@
 
 ---
 
-### 🗂️ Projects
-
-| # | Project | Stack |
-|---|---|---|
-| 01 | [This Portfolio](https://amemeee.github.io/portfolio/): a hand-drawn manga me who chats, reacts, naps and throws roses | HTML · CSS · JavaScript |
-| 02 | [Arena Auctioneers](https://arenaauctioneers.com): property auction listings across Malaysia | PHP · JavaScript · jQuery · AJAX |
-| 03 | [Arena Homestay](https://homestay.arenaauctioneers.com): booking site for the Arena homestay | Laravel · Blade |
-| 04 | [Agent Property Auction Platform](https://01-agent-property-auction.wasmer.app): auction platform built for agents | Vue · Laravel |
-| 05 | [Wedding Invitation](https://ornate-crumble-cb085e.netlify.app/): animated envelope, countdown, RSVP and guest wishes | Vue 3 · Supabase |
-| 06 | [Soul Match](https://amemeee.github.io/soul-match/): trading card game demo | HTML · CSS · JavaScript |
-| 07 | [Skull & Shears](https://amemeee.github.io/barbershop/): barbershop website | HTML · CSS · JavaScript |
-| 08 | [Bite The Dust](https://amemeee.github.io/bite-the-dust/): Rohan Kishibe activates Bite The Dust | HTML · CSS · JavaScript |
-| 09 | **Your project here?** [Hire me](mailto:muhd.amin0004@gmail.com) and it's next on this list. | Laravel · PHP · whatever you need |
-
----
-
 <p align="center">
   <b>Hiring, or have a project?</b><br>
   <a href="mailto:muhd.amin0004@gmail.com">muhd.amin0004@gmail.com</a>

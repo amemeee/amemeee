@@ -1,23 +1,3 @@
-<h1 align="center">MUHAMMAD AMIN</h1>
-<p align="center"><b>PHP / Laravel Developer</b> &nbsp;·&nbsp; IT Manager &nbsp;·&nbsp; Illustrator</p>
-
-<p align="center">
-  <a href="https://amemeee.github.io/portfolio/">
-    <img src="https://amemeee.github.io/portfolio/assets/character/portrait-profile.webp" alt="Hand-drawn self-portrait of Muhammad Amin" width="360" />
-  </a>
-</p>
-
-<p align="center"><em>Grinding XP in code, art, and whatever's next.</em></p>
-
-<p align="center">
-  <a href="https://amemeee.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:muhd.amin0004@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ffffff?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email" /></a>
-</p>
-
----
-
-### 🎮 Character Sheet
-
 | | |
 |---|---|
 | **Position** | IT Manager *(I wear a lot of hats)* |

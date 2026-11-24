@@ -29,40 +29,9 @@
 
 <hr>
 
-<h3 align="center">SELECTED WORK</h3>
+<h3 align="center">PORTFOLIO</h3>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://amemeee.github.io/portfolio/">
-        <img src="https://amemeee.github.io/portfolio/assets/project/arena_auctioneers/1.webp" width="100%" alt="Arena Auctioneers" />
-      </a><br>
-      <sub><b>ARENA AUCTIONEERS</b></sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://amemeee.github.io/portfolio/">
-        <img src="https://amemeee.github.io/portfolio/assets/project/homestay/home.webp" width="100%" alt="Homestay" />
-      </a><br>
-      <sub><b>HOMESTAY</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://amemeee.github.io/portfolio/">
-        <img src="https://amemeee.github.io/portfolio/assets/project/wedding/home.webp" width="100%" alt="Wedding" />
-      </a><br>
-      <sub><b>WEDDING</b></sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://amemeee.github.io/portfolio/">
-        <img src="https://amemeee.github.io/portfolio/assets/project/portfolio/home.webp" width="100%" alt="Portfolio" />
-      </a><br>
-      <sub><b>PORTFOLIO</b></sub>
-    </td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://amemeee.github.io/portfolio/"><sub>SEE ALL PROJECTS →</sub></a></p>
+<p align="center"><a href="https://amemeee.github.io/portfolio/">https://amemeee.github.io/portfolio/</a></p>
 
 <hr>
 

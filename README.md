@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://amemeee.github.io/portfolio/">
-    <img src="https://amemeee.github.io/portfolio/assets/character/portrait-profile.webp" alt="Hand-drawn self-portrait of Muhammad Amin" width="320" />
+    <img src="https://amemeee.github.io/portfolio/assets/character/wave.png" alt="Hand-drawn self-portrait waving" height="360" />
   </a>
 </p>
 
@@ -12,14 +12,12 @@
 
 <p align="center">
   <a href="https://amemeee.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square" alt="Portfolio" /></a>
-  <a href="mailto:muhd.amin0004@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&labelColor=ffffff&color=ffffff&logoColor=000000" alt="Email" /></a>
+  <a href="mailto:muhd.amin0004@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&labelColor=ffffff&color=ffffff" alt="Email" /></a>
 </p>
-
-<br>
 
 <hr>
 
-<br>
+<img align="right" src="https://amemeee.github.io/portfolio/assets/character/think.png" alt="" height="150" />
 
 |  |  |
 |---|---|
@@ -29,11 +27,23 @@
 | **Design** | Photoshop, Illustrator, Canva |
 | **Off-duty** | Calisthenics, learning new things |
 
-<br>
+<hr>
+
+<h3 align="center">SELECTED ART</h3>
+
+<p align="center">
+  <img src="https://amemeee.github.io/portfolio/assets/gallery/art1.png" height="170" alt="" />
+  <img src="https://amemeee.github.io/portfolio/assets/gallery/art2.png" height="170" alt="" />
+  <img src="https://amemeee.github.io/portfolio/assets/gallery/art3.png" height="170" alt="" />
+  <img src="https://amemeee.github.io/portfolio/assets/gallery/art4.png" height="170" alt="" />
+</p>
+
+<p align="center"><a href="https://amemeee.github.io/portfolio/"><sub>SEE THE FULL GALLERY →</sub></a></p>
 
 <hr>
 
 <p align="center">
+  <img src="https://amemeee.github.io/portfolio/assets/character/scenes/your-project.jpg" height="200" alt="" /><br><br>
   Hiring, or have a project?<br>
   <a href="mailto:muhd.amin0004@gmail.com">muhd.amin0004@gmail.com</a>
 </p>

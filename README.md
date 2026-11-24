@@ -1,51 +1,41 @@
 <h1 align="center">MUHAMMAD AMIN</h1>
-<p align="center"><b>PHP / Laravel Developer</b> &nbsp;·&nbsp; IT Manager &nbsp;·&nbsp; Illustrator</p>
+
+<p align="center">PHP / Laravel Developer &nbsp;/&nbsp; IT Manager &nbsp;/&nbsp; Illustrator</p>
 
 <p align="center">
   <a href="https://amemeee.github.io/portfolio/">
-    <img src="https://amemeee.github.io/portfolio/assets/character/portrait-profile.webp" alt="Hand-drawn self-portrait of Muhammad Amin" width="360" />
+    <img src="https://amemeee.github.io/portfolio/assets/character/portrait-profile.webp" alt="Hand-drawn self-portrait of Muhammad Amin" width="320" />
   </a>
 </p>
 
 <p align="center"><em>I build web apps with Laravel, and I'm always learning something new.</em></p>
 
 <p align="center">
-  <a href="https://amemeee.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:muhd.amin0004@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ffffff?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email" /></a>
+  <a href="https://amemeee.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square" alt="Portfolio" /></a>
+  <a href="mailto:muhd.amin0004@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&labelColor=ffffff&color=ffffff&logoColor=000000" alt="Email" /></a>
 </p>
 
----
+<br>
 
-### 🎮 Character Sheet
+<hr>
 
-| | |
+<br>
+
+|  |  |
 |---|---|
-| **Position** | IT Manager *(I wear a lot of hats)* |
-| **Main weapon** | PHP · Laravel · MySQL |
-| **Alt weapon** | JavaScript · Vue · Tailwind · Bootstrap · Git · GitHub Actions · AWS · Postman · Photoshop · Illustrator · Canva · AI tools · and more… |
-| **Side quests** | Leveling up IRL · Learning new things · Calisthenics · Unlocking new skills |
+| **Role** | IT Manager |
+| **Core** | PHP, Laravel, MySQL |
+| **Also** | JavaScript, Vue, Tailwind, Bootstrap, Git, GitHub Actions, AWS, Postman |
+| **Design** | Photoshop, Illustrator, Canva |
+| **Off-duty** | Calisthenics, learning new things |
 
-<p>
-  <img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Vue-000000?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Photoshop-000000?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Illustrator-000000?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
-</p>
+<br>
 
----
+<hr>
 
 <p align="center">
-  <b>Hiring, or have a project?</b><br>
+  Hiring, or have a project?<br>
   <a href="mailto:muhd.amin0004@gmail.com">muhd.amin0004@gmail.com</a>
 </p>
 
-<p align="center"><em>Don't Let It Vanish.</em></p>
+<p align="center"><sub><em>Don't Let It Vanish.</em></sub></p>

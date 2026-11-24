@@ -1,44 +1,7 @@
-<h1 align="center">MUHAMMAD AMIN</h1>
-
-<p align="center">PHP / Laravel Developer &nbsp;/&nbsp; IT Manager &nbsp;/&nbsp; Illustrator</p>
-
 <p align="center">
   <a href="https://amemeee.github.io/portfolio/">
-    <img src="https://amemeee.github.io/portfolio/assets/character/wave.webp" alt="Hand-drawn self-portrait waving" height="360" />
+    <img src="https://amemeee.github.io/portfolio/assets/project/portfolio/home.webp" width="720" alt="Portfolio" />
   </a>
+  <br><br>
+  <a href="https://amemeee.github.io/portfolio/">amemeee.github.io/portfolio</a>
 </p>
-
-<p align="center"><em>I build web apps with Laravel, and I'm always learning something new.</em></p>
-
-<p align="center">
-  <a href="https://amemeee.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square" alt="Portfolio" /></a>
-  <a href="mailto:muhd.amin0004@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&labelColor=ffffff&color=ffffff" alt="Email" /></a>
-</p>
-
-<hr>
-
-<img align="right" src="https://amemeee.github.io/portfolio/assets/character/think.webp" alt="" height="150" />
-
-|  |  |
-|---|---|
-| **Role** | IT Manager |
-| **Core** | PHP, Laravel, MySQL |
-| **Also** | JavaScript, Vue, Tailwind, Bootstrap, Git, GitHub Actions, AWS, Postman |
-| **Design** | Photoshop, Illustrator, Canva |
-| **Off-duty** | Calisthenics, learning new things |
-
-<hr>
-
-<h3 align="center">PORTFOLIO</h3>
-
-<p align="center"><a href="https://amemeee.github.io/portfolio/">https://amemeee.github.io/portfolio/</a></p>
-
-<hr>
-
-<p align="center">
-  <img src="https://amemeee.github.io/portfolio/assets/character/scenes/your-project.webp" height="200" alt="" /><br><br>
-  Hiring, or have a project?<br>
-  <a href="mailto:muhd.amin0004@gmail.com">muhd.amin0004@gmail.com</a>
-</p>
-
-<p align="center"><sub><em>Don't Let It Vanish.</em></sub></p>

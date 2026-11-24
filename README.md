@@ -1,10 +1,10 @@
 <h1 align="center">MUHAMMAD AMIN</h1>
 
-<p align="center">PHP / Laravel Developer &nbsp;/&nbsp; IT Manager &nbsp;/&nbsp; Illustrator</p>
+<p align="center">PHP / Laravel Developer &nbsp;/&nbsp; IT Manager</p>
 
 <p align="center">
   <a href="https://amemeee.github.io/portfolio/">
-    <img src="https://amemeee.github.io/portfolio/assets/character/wave.png" alt="Hand-drawn self-portrait waving" height="360" />
+    <img src="https://amemeee.github.io/portfolio/assets/character/wave.webp" alt="Hand-drawn self-portrait waving" height="360" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 
 <hr>
 
-<img align="right" src="https://amemeee.github.io/portfolio/assets/character/think.png" alt="" height="150" />
+<img align="right" src="https://amemeee.github.io/portfolio/assets/character/think.webp" alt="" height="150" />
 
 |  |  |
 |---|---|
@@ -32,10 +32,10 @@
 <h3 align="center">SELECTED ART</h3>
 
 <p align="center">
-  <img src="https://amemeee.github.io/portfolio/assets/gallery/art1.png" height="170" alt="" />
-  <img src="https://amemeee.github.io/portfolio/assets/gallery/art2.png" height="170" alt="" />
-  <img src="https://amemeee.github.io/portfolio/assets/gallery/art3.png" height="170" alt="" />
-  <img src="https://amemeee.github.io/portfolio/assets/gallery/art4.png" height="170" alt="" />
+  <img src="https://amemeee.github.io/portfolio/assets/gallery/art1.webp" height="170" alt="" />
+  <img src="https://amemeee.github.io/portfolio/assets/gallery/art2.webp" height="170" alt="" />
+  <img src="https://amemeee.github.io/portfolio/assets/gallery/art6.webp" height="170" alt="" />
+  <img src="https://amemeee.github.io/portfolio/assets/gallery/art4.webp" height="170" alt="" />
 </p>
 
 <p align="center"><a href="https://amemeee.github.io/portfolio/"><sub>SEE THE FULL GALLERY →</sub></a></p>
@@ -43,7 +43,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://amemeee.github.io/portfolio/assets/character/scenes/your-project.jpg" height="200" alt="" /><br><br>
+  <img src="https://amemeee.github.io/portfolio/assets/character/scenes/your-project.webp" height="200" alt="" /><br><br>
   Hiring, or have a project?<br>
   <a href="mailto:muhd.amin0004@gmail.com">muhd.amin0004@gmail.com</a>
 </p>

@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<p align="center"><em>I build web apps with Laravel, and I'm always learning something new.</em></p>
+<p align="center"><em>Grinding XP in code, art, and whatever's next.</em></p>
 
 <p align="center">
   <a href="https://amemeee.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
